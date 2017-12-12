@@ -1,0 +1,16 @@
+Abstract:
+    Two examples of training 3 types classifiers.
+    The classifiers are of type:
+        1) K nearest neighbors
+        2) Tree classifier
+        3) Neural Net
+
+    For the first two the scikit-learn module is used.
+    The neural net is implemented with tensor flow.
+
+    For a more hands on implementation of a neural net including
+    implementation of backpropagation see other project on my GitHub
+    called HelloNN.
+
+    The datasets for this projects are taken from: https://archive.ics.uci.edu/ml/index.php
+    This is in general a great site to get datasets.
